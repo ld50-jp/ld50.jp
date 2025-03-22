@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    display: grid;
+    place-content: center;
+}
+
+body {
+    width: 100dvmin;
+    height: 100dvmin;
+    display: grid;
+    grid-template-rows: 2fr 20fr 2fr;
+}
+
+header {
+    display: grid;
+    place-content: center;
+}
+
+footer {
+    display: grid;
+    place-content: center;
+}
+
+#xLogo {
+    width: 4dvmin;
+}
