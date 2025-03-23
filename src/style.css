@@ -6,6 +6,8 @@
 html {
     display: grid;
     place-content: center;
+    width: 100dvw;
+    height: 100dvh;
 }
 
 body {
